@@ -25,4 +25,7 @@ public class Calculator {
 	public static void cube(int num){
 		System.out.println(num*num*num);
 	}
+	public static void cubezz(int num){
+		System.out.println(num*num*num);
+	}
 }
