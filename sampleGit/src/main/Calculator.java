@@ -22,5 +22,7 @@ public class Calculator {
 	public static void mod(int a,int b){
 	      System.out.println(a%b);
 	  }
-
+	public static void cube(int num){
+		System.out.println(num*num*num);
+	}
 }
